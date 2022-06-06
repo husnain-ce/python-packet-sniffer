@@ -107,16 +107,14 @@ class PacketSniffer:
     or either client wants to add some extra features than
     we can easily add the funcationalt and extend features.
 
-    Make decision is funcation avalaible in Program so 
+    Make decision is function avalaible in Program so 
     here cap the packet decision is performing.
 
 ## Installation
 
 Python3.0 version on linux Os
 
-    There is no external library is required, becuase in
-    project the socket lib that is core of networking
-    we can monitor traffic via this
+    There is no external library is required
     
     - sudo python3 packet_sniffer.py 
 
